@@ -12,6 +12,7 @@
   <li>📫 Reach me at ➡️ <a href="mailto:harshm8540@gmail.com">harshm8540@gmail.com</a>.</li>
 </ul>
 
+
 <h2>🛠️ Languages and Tools</h2>
 <p align="left">
   <!-- First Row -->
@@ -31,8 +32,8 @@
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-rounded&logo=github&logoColor=white" alt="GitHub"/></a>
 </p> 
 
-<h2>🤝 Connect with Me</h2>
 
+<h2>🤝 Connect with Me</h2>
 <p align="left">
   <a href="mailto:harshm8540@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/>
