@@ -6,7 +6,6 @@
   <img src="https://Visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue" alt="Profile Views"/>
 </p>
 
-
 - 🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/HarshMaurya04).
 - 📫 Reach me at ➡️ [harshm8540@gmail.com](mailto:harshm8540@gmail.com).
@@ -30,4 +29,3 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-rounded&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-rounded&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
