@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Harsh Maurya
 
-## B.Tech Student in the field of Artificial Intelligence and Data Science
+## 🎓 B.Tech Student specializing in Artificial Intelligence and Data Science
 
-- 🌱 I’m currently expanding my experties in React, Node.js, MondoDB and C++ language 
-- 👨‍💻 All my projects are available at [GitHub](https://github.com/HarshMaurya04)
-- 📫 Reach me ➡️ harshm8540@gmail.com  
+- 🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.
+- 👨‍💻 All my projects are available on [GitHub](https://github.com/HarshMaurya04).
+- 📫 Reach me at ➡️ [harshm8540@gmail.com](mailto:harshm8540@gmail.com).
