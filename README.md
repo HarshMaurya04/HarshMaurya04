@@ -7,8 +7,8 @@
 </p>
 
 <ul>
-  <li>🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.</li> <br>
-  <li>👨‍💻 All my projects are available on <a href="https://github.com/HarshMaurya04" target="_blank">GitHub</a>.</li> <br>
+  <li>🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.</li>
+  <li>👨‍💻 All my projects are available on <a href="https://github.com/HarshMaurya04" target="_blank">GitHub</a>.</li>
   <li>📫 Reach me at ➡️ <a href="mailto:harshm8540@gmail.com">harshm8540@gmail.com</a>.</li>
 </ul>
 
@@ -34,13 +34,10 @@
 <h2>🤝 Connect with Me</h2>
 
 <p align="left">
-  <a href="mailto:harshm8540@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/harsh.04_29/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="mailto:harshm8540@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+<p>
+  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+<p>
+  <a href="https://www.instagram.com/harsh.04_29/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/></a></p>
