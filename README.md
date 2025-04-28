@@ -6,11 +6,15 @@
   <img src="https://Visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue" alt="Profile Views"/>
 </p>
 
+<br>
 - 🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.
+<br>
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/HarshMaurya04).
+<br>
 - 📫 Reach me at ➡️ [harshm8540@gmail.com](mailto:harshm8540@gmail.com).
+  
 
-## 🛠️ Languages and Tools
+<h2>🛠️ Languages and Tools </h2>
 
 <p align="left">
   <!-- First Row -->
