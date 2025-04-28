@@ -16,20 +16,20 @@
 <h2>🛠️ Languages and Tools</h2>
 <p align="center">
   <!-- First Row -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height: 30px; width: auto;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="height: 30px; width: auto;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="height: 30px; width: auto;"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="height: 30px; width: auto;"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="height: 30px; width: auto;"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 30px; width: auto;"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height: 30px; width: auto;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height: 20px; width: auto;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="height: 20px; width: auto;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="height: 20px; width: auto;"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="height: 20px; width: auto;"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="height: 20px; width: auto;"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 20px; width: auto;"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height: 20px; width: auto;"/></a>
 </p>
 
 <p align="center">
   <!-- Second Row -->
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 30px; width: auto;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="height: 30px; width: auto;"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height: 30px; width: auto;"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 20px; width: auto;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="height: 20px; width: auto;"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height: 20px; width: auto;"/></a>
 </p> 
 
 <br>
