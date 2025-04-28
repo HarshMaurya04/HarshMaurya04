@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Harsh Maurya</h1>
 
-<h3 align="center">🎓 B.Tech Student specializing in Artificial Intelligence and Data Science</h3> <br>
+<h3 align="center">🎓 B.Tech Student specializing in Artificial Intelligence and Data Science</h3>
 
 <p align="center">
   <img src="https://Visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue" alt="Profile Views"/>
@@ -30,3 +30,17 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-rounded&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-rounded&logo=github&logoColor=white" alt="GitHub"/></a>
 </p> 
+
+<h2>🤝 Connect with Me</h2>
+
+<p align="left">
+  <a href="mailto:harshm8540@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/harsh.04_29/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
