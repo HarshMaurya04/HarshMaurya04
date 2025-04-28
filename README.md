@@ -7,13 +7,12 @@
 </p>
 
 <ul>
-  <li>🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.</li>
-  <li>👨‍💻 All my projects are available on <a href="https://github.com/HarshMaurya04" target="_blank">GitHub</a>.</li>
+  <li>🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.</li> <br>
+  <li>👨‍💻 All my projects are available on <a href="https://github.com/HarshMaurya04" target="_blank">GitHub</a>.</li> <br>
   <li>📫 Reach me at ➡️ <a href="mailto:harshm8540@gmail.com">harshm8540@gmail.com</a>.</li>
-</ul>
+</ul> <br>
 
 <h2>🛠️ Languages and Tools</h2>
-
 <p align="left">
   <!-- First Row -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black" alt="JavaScript"/></a>
