@@ -35,13 +35,20 @@
 
 <p align="left">
   <a href="mailto:harshm8540@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/harsh.04_29/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.instagram.com/harsh.04_29/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 
