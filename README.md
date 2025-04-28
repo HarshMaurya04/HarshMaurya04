@@ -7,7 +7,7 @@
 </p>
 
 <ul>
-  <li>🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.</li><,br>
+  <li>🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.</li><br>
   <li>👨‍💻 All my projects are available on <a href="https://github.com/HarshMaurya04" target="_blank">GitHub</a>.</li><br>
   <li>📫 Reach me at ➡️ <a href="mailto:harshm8540@gmail.com">harshm8540@gmail.com</a>.</li>
 </ul>
