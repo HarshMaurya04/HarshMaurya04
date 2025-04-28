@@ -1,8 +1,10 @@
-# Hi there 👋, I'm Harsh Maurya
+<h1 align="center">Hi there 👋, I'm Harsh Maurya</h1>
 
-## 🎓 B.Tech Student specializing in Artificial Intelligence and Data Science
+<h3 align="center">🎓 B.Tech Student specializing in Artificial Intelligence and Data Science</h3>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue" alt="Profile Views"/>
+</p>
 
 
 - 🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.
