@@ -3,7 +3,7 @@
 <h3 align="center">🎓 B.Tech Student specializing in Artificial Intelligence and Data Science</h3>
 
 <p align="center">
-  <img src="https://Visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue" alt="Profile Views"/>
+  <img src="https://Visitor-badge.laobi.icu/badge?page_id=HarshMaurya04&color=blue" alt="Profile Views" style="height: 25px; width: auto;/>
 </p>
 
 <ul>
