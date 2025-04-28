@@ -11,7 +11,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <!-- First Row -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white" alt="HTML5"/></a>
@@ -22,7 +22,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-rounded&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Second Row -->
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-rounded&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-rounded&logo=git&logoColor=white" alt="Git"/></a>
