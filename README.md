@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Harsh Maurya
 
 ## 🎓 B.Tech Student specializing in Artificial Intelligence and Data Science
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HarshMaurya04)
+
 
 - 🌱 Currently expanding my expertise in React, Node.js, MongoDB, and C++.
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/HarshMaurya04).
