@@ -38,10 +38,10 @@
   <a href="mailto:harshm8540@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height: 25px; width: auto;"/></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px; width: auto;"/></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/harsh.04_29/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="height: 25px; width: auto;"/></a>
 </p> 
