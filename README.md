@@ -14,7 +14,7 @@
 
 <br>
 <h2>🛠️ Languages and Tools</h2>
-<p align="left">
+<p align="center">
   <!-- First Row -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white" alt="HTML5"/></a>
@@ -25,7 +25,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-rounded&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Second Row -->
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-rounded&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-rounded&logo=git&logoColor=white" alt="Git"/></a>
@@ -34,22 +34,10 @@
 
 <br>
 <h2>🤝 Connect with Me</h2>
-<p align="left">
-  <a href="mailto:harshm8540@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.instagram.com/harsh.04_29/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<p align="center">
+  <a href="mailto:harshm8540@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-harshm8540@gmail.com-D14836?style=flat-rounded&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/harsh-maurya-bbb237283/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Harsh%20Maurya-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/harsh.04_29/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Harsh%20Maurya-E4405F?style=flat-rounded&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
